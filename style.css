@@ -142,7 +142,7 @@ header{
         opacity: 0;
     }
     70% {
-        transform: translateY(13%);
+        transform: translateY(0%);
         opacity: 1;
     }
 }
@@ -861,7 +861,7 @@ footer div{
     
     }
     .hero{
-        height: 75vh;
+        height: 80vh;
     }
     .read_here{
         height: 100vh;
